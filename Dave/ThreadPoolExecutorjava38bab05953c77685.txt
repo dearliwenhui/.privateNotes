@@ -1,0 +1,1 @@
+{"version":"38bab05953c77685","fileName":"ThreadPoolExecutor.java","fileSimpleName":"ThreadPoolExecutor","fileType":"java","notes":{"1125":"execute和submit的task值不一样","1110":"构造器设置-1：setState(-1);","1113":"体现线程池的执行优先级，当w不为null时，优先执行形参w，否则从队列中获取runnable执行"}}

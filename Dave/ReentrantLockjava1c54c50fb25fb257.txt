@@ -1,0 +1,1 @@
+{"version":"1c54c50fb25fb257","fileName":"ReentrantLock.java","fileSimpleName":"ReentrantLock","fileType":"java","notes":{"240":"判断是否是重入","241":"重入次数+1","132":"尝试加锁","133":"加锁成功，设置独占线程","232":"获取加锁次数","153":"锁释放标志","137":"判断是否是重入","154":"独占线程设置为null","235":"尝试加锁"}}

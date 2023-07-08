@@ -1,0 +1,1 @@
+{"version":"a28a1554e0d32cf6","fileName":"AbstractOwnableSynchronizer.java","fileSimpleName":"AbstractOwnableSynchronizer","fileType":"java","notes":{"72":"设置独占线程，方便重入"}}
