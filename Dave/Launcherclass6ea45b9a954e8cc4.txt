@@ -1,0 +1,1 @@
+{"version":"6ea45b9a954e8cc4","fileName":"Launcher.class","fileSimpleName":"Launcher","fileType":"class","notes":{"51":"创建并获取AppClassLoader","163":"初始化AppClassLoader","38":"C++会调用","169":"初始化URLClassLoader","268":"新建ExtClassLoader","45":"创建并获取ExtClassLoader","158":"获取classPath路径，默认是WEB-INF/classes","287":"新建一个扩展类加载器"}}
